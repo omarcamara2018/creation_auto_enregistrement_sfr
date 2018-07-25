@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="sys_script_client">
+    <sys_script_client action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <applies_extended>false</applies_extended>
+        <condition/>
+        <description/>
+        <field>adresse_mail</field>
+        <global>true</global>
+        <messages/>
+        <name>mail_verification</name>
+        <order/>
+        <script><![CDATA[function onChange(control, oldValue, newValue, isLoading, isTemplate) {
+   if (isLoading || newValue === '') {
+      return;
+   }
+//////////////////////////////////////////////////////////////////////////////////////
+		
+function validateEmail(email) {
+  var re = /^(([^<>()[\]\\.,;:\s@\"]+(\.[^<>()[\]\\.,;:\s@\"]+)*)|(\".+\"))@((\[[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\])|(([a-zA-Z\-0-9]+\.)+[a-zA-Z]{2,}))$/;
+  return re.test(email);
+}
+	
+	function validate() {
+  var email = g_form.getValue("adresse_mail");
+
+  if (validateEmail(email)) {
+	g_form.showFieldMsg('adresse_mail',"Adresse mail valide",'info');
+  } else {
+	g_form.showFieldMsg('adresse_mail','Adresse mail non valide','error');
+  }
+  return false;
+}
+
+	validate();
+	
+	//////////////////////////////////////////////////////////////////////////////
+}]]></script>
+        <sys_class_name>sys_script_client</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-07-25 08:33:51</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>382b2d09376313003370dc1873990e8c</sys_id>
+        <sys_mod_count>13</sys_mod_count>
+        <sys_name>mail_verification</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="creation_auto_enregistrement_utilisateur_OCA" source="x_248873_creation">fe3fddcd372313003370dc1873990e81</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="creation_auto_enregistrement_utilisateur_OCA">fe3fddcd372313003370dc1873990e81</sys_scope>
+        <sys_update_name>sys_script_client_382b2d09376313003370dc1873990e8c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-07-25 10:11:59</sys_updated_on>
+        <table>x_248873_creation_utilisateurs_creation_compte_sfr</table>
+        <type>onChange</type>
+        <ui_type>10</ui_type>
+        <view/>
+    </sys_script_client>
+</record_update>

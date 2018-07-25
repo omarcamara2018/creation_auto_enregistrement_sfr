@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sp_instance">
+    <sp_instance action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <class_name/>
+        <color>default</color>
+        <css/>
+        <glyph/>
+        <id/>
+        <order>1</order>
+        <roles/>
+        <short_description/>
+        <size>md</size>
+        <sp_column display_value="1">efb702c537a313003370dc1873990e18</sp_column>
+        <sp_widget display_value="HTML">8679ef89cb21120000f8d856634c9c4f</sp_widget>
+        <sys_class_name>sp_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-07-25 10:32:45</sys_created_on>
+        <sys_id>0ef7460937a313003370dc1873990e8d</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="creation_auto_enregistrement_utilisateur_OCA" source="x_248873_creation">fe3fddcd372313003370dc1873990e81</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="creation_auto_enregistrement_utilisateur_OCA">fe3fddcd372313003370dc1873990e81</sys_scope>
+        <sys_update_name>sp_instance_0ef7460937a313003370dc1873990e8d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-07-25 10:38:04</sys_updated_on>
+        <title/>
+        <url/>
+        <widget_parameters><![CDATA[{
+	"html": {
+		"value": "<h1 style=\"text-align: center;\">&nbsp;</h1>\n<h1 style=\"text-align: center;\">&nbsp;</h1>\n<h2 style=\"text-align: center;\"><strong>Votre demande a &eacute;t&eacute; envoy&eacute; et est en attente d'examen.</strong></h2>\n<h2 style=\"text-align: center;\"><strong>Vous recevrez un mail lorsque votre demande sera trait&eacute;e</strong></h2>",
+		"displayValue": "<h1 style=\"text-align: center;\">&nbsp;</h1>\n<h1 style=\"text-align: center;\">&nbsp;</h1>\n<h2 style=\"text-align: center;\"><strong>Votre demande a &eacute;t&eacute; envoy&eacute; et est en attente d'examen.</strong></h2>\n<h2 style=\"text-align: center;\"><strong>Vous recevrez un mail lorsque votre demande sera trait&eacute;e</strong></h2>"
+	}
+}]]></widget_parameters>
+    </sp_instance>
+    <sys_translated_text action="delete_multiple" query="documentkey=0ef7460937a313003370dc1873990e8d"/>
+</record_update>

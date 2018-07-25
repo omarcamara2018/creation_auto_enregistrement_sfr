@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sp_page">
+    <sp_page action="INSERT_OR_UPDATE">
+        <category>custom</category>
+        <css/>
+        <draft>false</draft>
+        <dynamic_title_structure/>
+        <id>page_de_connexion</id>
+        <internal>false</internal>
+        <public>false</public>
+        <roles/>
+        <short_description/>
+        <sys_class_name>sp_page</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-07-25 10:31:32</sys_created_on>
+        <sys_id>c0b7ca0537a313003370dc1873990ec4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>page_de_connexion</sys_name>
+        <sys_package display_value="creation_auto_enregistrement_utilisateur_OCA" source="x_248873_creation">fe3fddcd372313003370dc1873990e81</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="creation_auto_enregistrement_utilisateur_OCA">fe3fddcd372313003370dc1873990e81</sys_scope>
+        <sys_update_name>sp_page_c0b7ca0537a313003370dc1873990ec4</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-07-25 10:31:32</sys_updated_on>
+        <title>Page de connexion</title>
+    </sp_page>
+    <sys_translated_text action="delete_multiple" query="documentkey=c0b7ca0537a313003370dc1873990ec4"/>
+</record_update>

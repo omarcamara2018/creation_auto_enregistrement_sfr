@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="Utilisateur SFR" max_length="40" name="x_248873_creation_utilisateurs_creation_compte_sfr" type="collection">
+        <element label="Adresse mail" mandatory="true" max_length="40" name="adresse_mail" type="string"/>
+        <element label="Compagnie" mandatory="true" max_length="40" name="compagnie" type="string"/>
+        <element label="Nom" mandatory="true" max_length="40" name="nom" type="string"/>
+        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element label="Numéro de téléphone " mandatory="true" max_length="40" name="num_ro_de_t_l_phone" type="phone_number_e164"/>
+        <element label="Prénom" mandatory="true" max_length="40" name="pr_nom" type="string"/>
+        <element choice="3" default="1" label="Etat" max_length="40" name="u_etat_utilisateur" type="string">
+            <choice>
+                <element label="Approuvée" sequence="0" value="3"/>
+                <element label="En cour de traitement" sequence="1" value="1"/>
+                <element label="Rejetée" sequence="2" value="2"/>
+            </choice>
+        </element>
+    </element>
+</database>

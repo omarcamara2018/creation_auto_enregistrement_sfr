@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sp_container">
+    <sp_container action="INSERT_OR_UPDATE">
+        <background_color>#f5f5f5</background_color>
+        <background_image/>
+        <background_style>default</background_style>
+        <bootstrap_alt>false</bootstrap_alt>
+        <class_name/>
+        <container_class_name/>
+        <name>Page de connexion - Container 1</name>
+        <order>1</order>
+        <sp_page display_value="page_de_connexion">c0b7ca0537a313003370dc1873990ec4</sp_page>
+        <subheader>false</subheader>
+        <sys_class_name>sp_container</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-07-25 10:31:32</sys_created_on>
+        <sys_id>d8b7060937a313003370dc1873990e3a</sys_id>
+        <sys_mod_count>5</sys_mod_count>
+        <sys_name>Page de connexion - Container 1</sys_name>
+        <sys_package display_value="creation_auto_enregistrement_utilisateur_OCA" source="x_248873_creation">fe3fddcd372313003370dc1873990e81</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="creation_auto_enregistrement_utilisateur_OCA">fe3fddcd372313003370dc1873990e81</sys_scope>
+        <sys_update_name>sp_container_d8b7060937a313003370dc1873990e3a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-07-25 11:00:47</sys_updated_on>
+        <title/>
+        <width>container</width>
+    </sp_container>
+</record_update>

@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="u_etat_utilisateur" table="x_248873_creation_utilisateurs_creation_compte_sfr" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_etat_utilisateur</element>
+            <hint/>
+            <inactive>true</inactive>
+            <label>-- New choice --</label>
+            <language>en</language>
+            <name>x_248873_creation_utilisateurs_creation_compte_sfr</name>
+            <sequence>0</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-07-25 11:33:47</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c4f5d20d37a313003370dc1873990e06</sys_id>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-07-25 20:27:37</sys_updated_on>
+            <value>-- New choice --</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_etat_utilisateur</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Approuvée</label>
+            <language>en</language>
+            <name>x_248873_creation_utilisateurs_creation_compte_sfr</name>
+            <sequence>0</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-07-25 11:39:43</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>0347524137e313003370dc1873990ea7</sys_id>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-07-25 20:27:37</sys_updated_on>
+            <value>3</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_etat_utilisateur</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>En cour de traitement</label>
+            <language>en</language>
+            <name>x_248873_creation_utilisateurs_creation_compte_sfr</name>
+            <sequence>1</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-07-25 11:39:43</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>0747524137e313003370dc1873990ea5</sys_id>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-07-25 20:27:37</sys_updated_on>
+            <value>1</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_etat_utilisateur</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Rejetée</label>
+            <language>en</language>
+            <name>x_248873_creation_utilisateurs_creation_compte_sfr</name>
+            <sequence>2</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-07-25 11:39:43</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>8347524137e313003370dc1873990ea6</sys_id>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-07-25 20:27:37</sys_updated_on>
+            <value>2</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>u_etat_utilisateur</element>
+            <name>x_248873_creation_utilisateurs_creation_compte_sfr</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-07-25 11:33:47</sys_created_on>
+            <sys_id>04f5d20d37a313003370dc1873990e07</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>u_etat_utilisateur</sys_name>
+            <sys_package display_value="creation_auto_enregistrement_utilisateur_OCA" source="x_248873_creation">fe3fddcd372313003370dc1873990e81</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="creation_auto_enregistrement_utilisateur_OCA">fe3fddcd372313003370dc1873990e81</sys_scope>
+            <sys_update_name>sys_choice_x_248873_creation_utilisateurs_creation_compte_sfr_u_etat_utilisateur</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-07-25 11:33:47</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>

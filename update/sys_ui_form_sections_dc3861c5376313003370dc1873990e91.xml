@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_form_sections form_id="dc3861c5376313003370dc1873990e91" sys_domain="global" table="x_248873_creation_utilisateurs_creation_compte_sfr" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-07-25 08:13:54</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>9c38a1c5376313003370dc1873990e1c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_248873_creation_utilisateurs_creation_compte_sfr" name="x_248873_creation_utilisateurs_creation_compte_sfr" sys_domain="global" view="Default view">dc3861c5376313003370dc1873990e91</sys_ui_form>
+            <sys_ui_section caption="Création de compte" display_value="Création de compte" name="x_248873_creation_utilisateurs_creation_compte_sfr" sys_domain="global" view="Default view">dc3861c5376313003370dc1873990e8d</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-07-25 08:13:54</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_248873_creation_utilisateurs_creation_compte_sfr</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-07-25 08:13:54</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>dc3861c5376313003370dc1873990e91</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_248873_creation_utilisateurs_creation_compte_sfr</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="creation_auto_enregistrement_utilisateur_OCA" source="x_248873_creation">fe3fddcd372313003370dc1873990e81</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="creation_auto_enregistrement_utilisateur_OCA">fe3fddcd372313003370dc1873990e81</sys_scope>
+            <sys_update_name>sys_ui_form_sections_dc3861c5376313003370dc1873990e91</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-07-25 08:13:54</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_db_object">
+    <sys_db_object action="INSERT_OR_UPDATE">
+        <access>public</access>
+        <actions_access>false</actions_access>
+        <alter_access>false</alter_access>
+        <client_scripts_access>false</client_scripts_access>
+        <configuration_access>false</configuration_access>
+        <create_access>false</create_access>
+        <create_access_controls>true</create_access_controls>
+        <delete_access>false</delete_access>
+        <extension_model/>
+        <is_extendable>false</is_extendable>
+        <label>Utilisateur SFR</label>
+        <live_feed_enabled>false</live_feed_enabled>
+        <name>x_248873_creation_utilisateurs_creation_compte_sfr</name>
+        <number_ref display_value="UTI">c6b2a5c1376313003370dc1873990e6b</number_ref>
+        <provider_class/>
+        <read_access>true</read_access>
+        <super_class/>
+        <sys_class_code/>
+        <sys_class_name>sys_db_object</sys_class_name>
+        <sys_class_path/>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-07-25 07:49:58</sys_created_on>
+        <sys_id>f7216981376313003370dc1873990e8a</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>Utilisateur SFR</sys_name>
+        <sys_package display_value="creation_auto_enregistrement_utilisateur_OCA" source="x_248873_creation">fe3fddcd372313003370dc1873990e81</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="creation_auto_enregistrement_utilisateur_OCA">fe3fddcd372313003370dc1873990e81</sys_scope>
+        <sys_update_name>sys_db_object_f7216981376313003370dc1873990e8a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-07-25 07:55:22</sys_updated_on>
+        <update_access>false</update_access>
+        <user_role display_value="x_248873_creation.utilisateurs_creation_compte_sfr_user" name="x_248873_creation.utilisateurs_creation_compte_sfr_user">21b2a581376313003370dc1873990e8b</user_role>
+        <ws_access>true</ws_access>
+    </sys_db_object>
+</record_update>

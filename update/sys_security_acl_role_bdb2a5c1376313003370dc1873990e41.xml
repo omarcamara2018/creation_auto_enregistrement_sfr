@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-07-25 07:49:59</sys_created_on>
+        <sys_id>bdb2a5c1376313003370dc1873990e41</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_248873_creation_utilisateurs_creation_compte_sfr.x_248873_creation.utilisateurs_creation_compte_sfr_user</sys_name>
+        <sys_package display_value="creation_auto_enregistrement_utilisateur_OCA" source="x_248873_creation">fe3fddcd372313003370dc1873990e81</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="creation_auto_enregistrement_utilisateur_OCA">fe3fddcd372313003370dc1873990e81</sys_scope>
+        <sys_security_acl display_value="x_248873_creation_utilisateurs_creation_compte_sfr">b5b2a5c1376313003370dc1873990e3f</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_bdb2a5c1376313003370dc1873990e41</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-07-25 07:49:59</sys_updated_on>
+        <sys_user_role display_value="x_248873_creation.utilisateurs_creation_compte_sfr_user" name="x_248873_creation.utilisateurs_creation_compte_sfr_user">21b2a581376313003370dc1873990e8b</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>

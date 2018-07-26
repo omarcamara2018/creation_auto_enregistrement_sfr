@@ -58,7 +58,7 @@
         <send_self>true</send_self>
         <sms_alternate/>
         <style/>
-        <subject/>
+        <subject>Mail d'information</subject>
         <subscribable>false</subscribable>
         <sys_class_name>sysevent_email_action</sys_class_name>
         <sys_created_by>admin</sys_created_by>
@@ -66,7 +66,7 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>a894c89937a713003370dc1873990ea2</sys_id>
-        <sys_mod_count>2</sys_mod_count>
+        <sys_mod_count>3</sys_mod_count>
         <sys_name>notif_posivtive_approbation</sys_name>
         <sys_overrides/>
         <sys_package display_value="creation_auto_enregistrement_utilisateur_OCA" source="x_248873_creation">fe3fddcd372313003370dc1873990e81</sys_package>
@@ -74,7 +74,7 @@
         <sys_scope display_value="creation_auto_enregistrement_utilisateur_OCA">fe3fddcd372313003370dc1873990e81</sys_scope>
         <sys_update_name>sysevent_email_action_a894c89937a713003370dc1873990ea2</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2018-07-25 20:39:30</sys_updated_on>
+        <sys_updated_on>2018-07-26 14:43:45</sys_updated_on>
         <sys_version>2</sys_version>
         <template display_value="Unsubscribe and Preferences">7ed0481f3b0b2200c869c2c703efc487</template>
         <type>email</type>

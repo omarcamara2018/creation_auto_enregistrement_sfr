@@ -25,13 +25,13 @@
         <digest_template/>
         <digest_text/>
         <digestable>false</digestable>
-        <event_name>approval.inserted</event_name>
+        <event_name>x_248873_creation.notif_pos_approbation</event_name>
         <event_parm_1>false</event_parm_1>
         <event_parm_2>false</event_parm_2>
         <exclude_delegates>false</exclude_delegates>
         <force_delivery>false</force_delivery>
         <from/>
-        <generation_type>engine</generation_type>
+        <generation_type>event</generation_type>
         <importance/>
         <include_attachments>false</include_attachments>
         <item>event.parm1</item>
@@ -47,7 +47,7 @@
 <p style="margin: 0cm 0cm 0.0001pt; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif;">Bien cordialement,</p>]]></message_html>
         <message_list/>
         <message_text/>
-        <name>notif_posivtive_approbation</name>
+        <name>notif_positive_approbation</name>
         <omit_watermark>false</omit_watermark>
         <order>100</order>
         <push_message_only>false</push_message_only>
@@ -66,15 +66,15 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>a894c89937a713003370dc1873990ea2</sys_id>
-        <sys_mod_count>3</sys_mod_count>
-        <sys_name>notif_posivtive_approbation</sys_name>
+        <sys_mod_count>8</sys_mod_count>
+        <sys_name>notif_positive_approbation</sys_name>
         <sys_overrides/>
         <sys_package display_value="creation_auto_enregistrement_utilisateur_OCA" source="x_248873_creation">fe3fddcd372313003370dc1873990e81</sys_package>
         <sys_policy/>
         <sys_scope display_value="creation_auto_enregistrement_utilisateur_OCA">fe3fddcd372313003370dc1873990e81</sys_scope>
         <sys_update_name>sysevent_email_action_a894c89937a713003370dc1873990ea2</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2018-07-26 14:43:45</sys_updated_on>
+        <sys_updated_on>2018-07-27 10:09:33</sys_updated_on>
         <sys_version>2</sys_version>
         <template display_value="Unsubscribe and Preferences">7ed0481f3b0b2200c869c2c703efc487</template>
         <type>email</type>

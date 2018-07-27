@@ -3,6 +3,7 @@
     <element label="Utilisateur SFR" max_length="40" name="x_248873_creation_utilisateurs_creation_compte_sfr" type="collection">
         <element label="Adresse mail" mandatory="true" max_length="40" name="adresse_mail" type="string"/>
         <element label="Compagnie" mandatory="true" max_length="40" name="compagnie" type="string"/>
+        <element label="confirmation" max_length="20" name="confirmation" read_only="true" type="string"/>
         <element label="Nom" mandatory="true" max_length="40" name="nom" type="string"/>
         <element label="Nom utilisateur" max_length="40" name="nom_utilisateur" read_only="true" type="string"/>
         <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>

@@ -4,25 +4,25 @@
         <sys_ui_annotation action="INSERT_OR_UPDATE">
             <is_plain_text>false</is_plain_text>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-07-26 10:55:03</sys_created_on>
-            <sys_id>eaa61759376f13003370dc1873990ef9</sys_id>
+            <sys_created_on>2018-07-27 10:59:19</sys_created_on>
+            <sys_id>f23120fd372b53003370dc1873990e40</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-07-26 10:55:03</sys_updated_on>
+            <sys_updated_on>2018-07-27 10:59:19</sys_updated_on>
             <text>Veuillez remplir les informations suivantes</text>
             <type display_value="Info Box Blue">753f88a80f930000b12e6903cfe01206</type>
         </sys_ui_annotation>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>eaa61759376f13003370dc1873990ef9</element>
+            <element>f23120fd372b53003370dc1873990e40</element>
             <position>0</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-07-26 10:55:03</sys_created_on>
-            <sys_id>aea61759376f13003370dc1873990ef9</sys_id>
+            <sys_created_on>2018-07-27 10:59:19</sys_created_on>
+            <sys_id>ba3120fd372b53003370dc1873990e40</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Création de compte" display_value="Création de compte" name="x_248873_creation_utilisateurs_creation_compte_sfr" sys_domain="global" view="Default view">dc3861c5376313003370dc1873990e8d</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-07-26 10:55:03</sys_updated_on>
+            <sys_updated_on>2018-07-27 10:59:19</sys_updated_on>
             <sys_user/>
             <type>annotation</type>
         </sys_ui_element>
@@ -30,13 +30,13 @@
             <element>.begin_split</element>
             <position>1</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-07-26 10:55:03</sys_created_on>
-            <sys_id>22a61759376f13003370dc1873990efa</sys_id>
+            <sys_created_on>2018-07-27 10:59:19</sys_created_on>
+            <sys_id>3e3120fd372b53003370dc1873990e40</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Création de compte" display_value="Création de compte" name="x_248873_creation_utilisateurs_creation_compte_sfr" sys_domain="global" view="Default view">dc3861c5376313003370dc1873990e8d</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-07-26 10:55:03</sys_updated_on>
+            <sys_updated_on>2018-07-27 10:59:19</sys_updated_on>
             <sys_user/>
             <type>.begin_split</type>
         </sys_ui_element>
@@ -44,13 +44,13 @@
             <element>nom</element>
             <position>2</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-07-26 10:55:03</sys_created_on>
-            <sys_id>a2a61759376f13003370dc1873990efa</sys_id>
+            <sys_created_on>2018-07-27 10:59:19</sys_created_on>
+            <sys_id>be3120fd372b53003370dc1873990e40</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Création de compte" display_value="Création de compte" name="x_248873_creation_utilisateurs_creation_compte_sfr" sys_domain="global" view="Default view">dc3861c5376313003370dc1873990e8d</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-07-26 10:55:03</sys_updated_on>
+            <sys_updated_on>2018-07-27 10:59:19</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -58,13 +58,13 @@
             <element>adresse_mail</element>
             <position>3</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-07-26 10:55:03</sys_created_on>
-            <sys_id>26a61759376f13003370dc1873990efa</sys_id>
+            <sys_created_on>2018-07-27 10:59:19</sys_created_on>
+            <sys_id>323120fd372b53003370dc1873990e41</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Création de compte" display_value="Création de compte" name="x_248873_creation_utilisateurs_creation_compte_sfr" sys_domain="global" view="Default view">dc3861c5376313003370dc1873990e8d</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-07-26 10:55:03</sys_updated_on>
+            <sys_updated_on>2018-07-27 10:59:19</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -72,13 +72,13 @@
             <element>.split</element>
             <position>4</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-07-26 10:55:03</sys_created_on>
-            <sys_id>a6a61759376f13003370dc1873990efa</sys_id>
+            <sys_created_on>2018-07-27 10:59:19</sys_created_on>
+            <sys_id>b23120fd372b53003370dc1873990e41</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Création de compte" display_value="Création de compte" name="x_248873_creation_utilisateurs_creation_compte_sfr" sys_domain="global" view="Default view">dc3861c5376313003370dc1873990e8d</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-07-26 10:55:03</sys_updated_on>
+            <sys_updated_on>2018-07-27 10:59:19</sys_updated_on>
             <sys_user/>
             <type>.split</type>
         </sys_ui_element>
@@ -86,13 +86,13 @@
             <element>pr_nom</element>
             <position>5</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-07-26 10:55:03</sys_created_on>
-            <sys_id>2aa61759376f13003370dc1873990efa</sys_id>
+            <sys_created_on>2018-07-27 10:59:19</sys_created_on>
+            <sys_id>363120fd372b53003370dc1873990e41</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Création de compte" display_value="Création de compte" name="x_248873_creation_utilisateurs_creation_compte_sfr" sys_domain="global" view="Default view">dc3861c5376313003370dc1873990e8d</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-07-26 10:55:03</sys_updated_on>
+            <sys_updated_on>2018-07-27 10:59:19</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -100,13 +100,13 @@
             <element>compagnie</element>
             <position>6</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-07-26 10:55:03</sys_created_on>
-            <sys_id>aaa61759376f13003370dc1873990efa</sys_id>
+            <sys_created_on>2018-07-27 10:59:19</sys_created_on>
+            <sys_id>b63120fd372b53003370dc1873990e41</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Création de compte" display_value="Création de compte" name="x_248873_creation_utilisateurs_creation_compte_sfr" sys_domain="global" view="Default view">dc3861c5376313003370dc1873990e8d</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-07-26 10:55:03</sys_updated_on>
+            <sys_updated_on>2018-07-27 10:59:19</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -114,13 +114,13 @@
             <element>num_ro_de_t_l_phone</element>
             <position>7</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-07-26 10:55:03</sys_created_on>
-            <sys_id>2ea61759376f13003370dc1873990efa</sys_id>
+            <sys_created_on>2018-07-27 10:59:19</sys_created_on>
+            <sys_id>3a3120fd372b53003370dc1873990e41</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Création de compte" display_value="Création de compte" name="x_248873_creation_utilisateurs_creation_compte_sfr" sys_domain="global" view="Default view">dc3861c5376313003370dc1873990e8d</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-07-26 10:55:03</sys_updated_on>
+            <sys_updated_on>2018-07-27 10:59:19</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>

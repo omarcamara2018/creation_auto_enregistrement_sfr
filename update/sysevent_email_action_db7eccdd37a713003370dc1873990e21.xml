@@ -3,7 +3,7 @@
     <sysevent_email_action action="INSERT_OR_UPDATE">
         <action_insert>false</action_insert>
         <action_update>true</action_update>
-        <active>true</active>
+        <active>false</active>
         <advanced_condition/>
         <affected_field_on_event/>
         <category display_value="Uncategorized" name="Uncategorized">c97d83137f4432005f58108c3ffa917a</category>
@@ -65,7 +65,7 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>db7eccdd37a713003370dc1873990e21</sys_id>
-        <sys_mod_count>8</sys_mod_count>
+        <sys_mod_count>9</sys_mod_count>
         <sys_name>notif_negative_approbation</sys_name>
         <sys_overrides/>
         <sys_package display_value="creation_auto_enregistrement_utilisateur_OCA" source="x_248873_creation">fe3fddcd372313003370dc1873990e81</sys_package>
@@ -73,7 +73,7 @@
         <sys_scope display_value="creation_auto_enregistrement_utilisateur_OCA">fe3fddcd372313003370dc1873990e81</sys_scope>
         <sys_update_name>sysevent_email_action_db7eccdd37a713003370dc1873990e21</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2018-07-27 09:32:27</sys_updated_on>
+        <sys_updated_on>2018-07-27 12:05:56</sys_updated_on>
         <sys_version>2</sys_version>
         <template display_value="Unsubscribe and Preferences">7ed0481f3b0b2200c869c2c703efc487</template>
         <type>email</type>

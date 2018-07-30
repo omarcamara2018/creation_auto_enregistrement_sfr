@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="sys_script_client">
+    <sys_script_client action="INSERT_OR_UPDATE">
+        <active>false</active>
+        <applies_extended>false</applies_extended>
+        <condition/>
+        <description/>
+        <field>adresse_mail</field>
+        <global>true</global>
+        <messages/>
+        <name>text_justify</name>
+        <order/>
+        <script><![CDATA[function onSubmit() {
+   //Type appropriate comment here, and begin script below
+    var nom = g_form.getValue("n");
+	var pr_nom = g_form.getValue("pr_nom");
+	var compagnie = g_form.getValue("compagnie");
+
+	nom = nom.toLowerCase();
+	var nom1 = nom.charAt(0).toUpperCase();
+	nom = nom1 + nom;
+	
+	pr_nom = pr_nom.toLowerCase();
+	var pr_nom1 = pr_nom.charAt(0).toUpperCase();
+	pr_nom = pr_nom1 + pr_nom;
+	
+	compagnie = compagnie.toLowerCase();
+	var compagnie1 = compagnie.charAt(0).toUpperCase();
+	compagnie = compagnie1 + compagnie;
+	g_form.setValue("nom",nom);
+	g_form.setValue("pr_nom",pr_nom);
+	g_form.setValue("compagnie",compagnie);
+}]]></script>
+        <sys_class_name>sys_script_client</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-07-27 14:40:53</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>fad295f937ab53003370dc1873990e35</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>text_justify</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="creation_auto_enregistrement_utilisateur_OCA" source="x_248873_creation">fe3fddcd372313003370dc1873990e81</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="creation_auto_enregistrement_utilisateur_OCA">fe3fddcd372313003370dc1873990e81</sys_scope>
+        <sys_update_name>sys_script_client_fad295f937ab53003370dc1873990e35</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-07-29 21:55:05</sys_updated_on>
+        <table>x_248873_creation_utilisateurs_creation_compte_sfr</table>
+        <type>onSubmit</type>
+        <ui_type>10</ui_type>
+        <view/>
+    </sys_script_client>
+</record_update>

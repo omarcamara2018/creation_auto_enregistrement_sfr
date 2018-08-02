@@ -12,10 +12,16 @@
         <order/>
         <script><![CDATA[function onSubmit() {
    //Type appropriate comment here, and begin script below
+	if(g_form.isNewRecord()){
+		var URL = "https://dev54627.service-now.com/sp?id=page_de_connexion";   //Redirect part of widget sc item custom
 
-	var URL = "https://dev54627.service-now.com/sp?id=page_de_connexion";   //Redirect part of widget sc item custom
+		top.window.location = URL;		
+	}
+	
+// 	var URL = "https://dev54627.service-now.com/sp?id=page_de_connexion";   //Redirect part of widget sc item custom
 
-	top.window.location = URL;
+// 	top.window.location = URL;	
+
 }]]></script>
         <sys_class_name>sys_script_client</sys_class_name>
         <sys_created_by>admin</sys_created_by>
@@ -23,7 +29,7 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>a53b068937a313003370dc1873990e85</sys_id>
-        <sys_mod_count>3</sys_mod_count>
+        <sys_mod_count>4</sys_mod_count>
         <sys_name>rediger_le_client_vers_page_connexion</sys_name>
         <sys_overrides/>
         <sys_package display_value="creation_auto_enregistrement_utilisateur_OCA" source="x_248873_creation">fe3fddcd372313003370dc1873990e81</sys_package>
@@ -31,7 +37,7 @@
         <sys_scope display_value="creation_auto_enregistrement_utilisateur_OCA">fe3fddcd372313003370dc1873990e81</sys_scope>
         <sys_update_name>sys_script_client_a53b068937a313003370dc1873990e85</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2018-07-25 21:59:03</sys_updated_on>
+        <sys_updated_on>2018-08-01 08:34:32</sys_updated_on>
         <table>x_248873_creation_utilisateurs_creation_compte_sfr</table>
         <type>onSubmit</type>
         <ui_type>10</ui_type>

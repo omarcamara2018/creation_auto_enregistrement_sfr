@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="a effacer" max_length="40" name="x_248873_creation_a_effacer" type="collection"/>
+</database>

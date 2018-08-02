@@ -7,7 +7,7 @@
         <element label="Nom" mandatory="true" max_length="40" name="nom" type="string"/>
         <element label="Nom utilisateur" max_length="40" name="nom_utilisateur" read_only="true" type="string"/>
         <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
-        <element label="Numéro de téléphone " max_length="40" name="num_ro_de_t_l_phone" type="phone_number_e164"/>
+        <element label="Numéro de téléphone " max_length="10" name="num_ro_de_t_l_phone" type="phone_number_e164"/>
         <element label="Prénom" mandatory="true" max_length="40" name="pr_nom" type="string"/>
         <element label="pwd" max_length="40" name="pwd" read_only="true" type="string"/>
         <element choice="3" default="1" label="Etat" max_length="40" name="u_etat_utilisateur" type="string">
